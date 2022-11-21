@@ -1,4 +1,4 @@
-# yt_2
+# Navigation Sample
 
 A new Flutter project.
 
